@@ -34,3 +34,4 @@ it worked as expected.
 * RF95-ReliableDatagram-Server.ino - server program demonstrating the problem
 * Debug.txt - output from server
 * M0_RFM95_Satellite_PIR.ino - motion sensor/doorbell remotes
+* JGS_Alarm.h - sets device addresses and messages
