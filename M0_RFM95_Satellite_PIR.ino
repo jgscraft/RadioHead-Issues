@@ -12,7 +12,7 @@
 //
 // From:      M0-RFM95-Satellite
 //
-// Hardware:  Adafruit Feather M0 RFM95 LoRa
+// Hardware:  Adafruit Feather M0 RFM95 LoRa (remember to double-tap reset to wake bootloader from sleep)
 //            Panasonic PIR EKMB1103113 1uA, 12M range, angle 92-102, or similar
 //  
 // Software:  Airspayce radio libraries
