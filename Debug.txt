@@ -1,0 +1,45 @@
+Manager is available.
+Result: 1
+got request from unit#: 102 Data:West Walk  
+--msg:West Walk  
+--len:11
+--from:102  GetFrom:102
+--to:100  GetTo:100
+--ID:1  GetId:1
+--flags:0  GetFlags:80
+Manager is available.
+Result: 1
+got request from unit#: 101 Data:Front Door
+--msg:Front Door
+--len:11
+--from:101  GetFrom:101
+--to:100  GetTo:100
+--ID:1  GetId:2
+--flags:0  GetFlags:80
+Manager is available.
+Result: 0
+got request from unit#: 0 Data:West Walk  
+--msg:West Walk  
+--len:11
+--from:0  GetFrom:102
+--to:0  GetTo:100
+--ID:0  GetId:3
+--flags:0  GetFlags:80
+Manager is available.
+Result: 0
+got request from unit#: 0 Data:West Walk  
+--msg:West Walk  
+--len:11
+--from:0  GetFrom:102
+--to:0  GetTo:100
+--ID:0  GetId:4
+--flags:0  GetFlags:80
+Manager is available.
+Result: 0
+got request from unit#: 0 Data:Front Door
+--msg:Front Door
+--len:11
+--from:0  GetFrom:101
+--to:0  GetTo:100
+--ID:0  GetId:5
+--flags:0  GetFlags:80
