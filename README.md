@@ -22,7 +22,7 @@ it worked as expected.
 
 
 | Resources | Versions  |
-|  |  |
+| -- | -- |
 | Hardware: | Adafruit Feather M0 RF95 (SAMD21)|
 | IDE: | I tried both 1.8 and 2.3 and got the same result |
 | RadioHead:| 1.122.1 |
